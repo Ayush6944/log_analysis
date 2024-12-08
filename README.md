@@ -18,7 +18,7 @@ Installation
 
 Clone this repository or download the script:
 
-bashCopygit clone <l>
+bashCopygit clone <https://github.com/Ayush6944/log_analysis.git>
 # or
 download log_analysis.py
 
